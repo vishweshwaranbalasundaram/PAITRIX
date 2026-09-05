@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Hero.tsx -> ./CoreRings\":{\"id\":\"components\\\\Hero.tsx -> ./CoreRings\",\"files\":[\"static/chunks/_app-pages-browser_components_CoreRings_tsx.js\"]}}"
